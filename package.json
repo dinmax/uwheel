@@ -1,7 +1,7 @@
 {
   "name": "uwheel",
   "description": "uwheel source code and builder",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "config": {
     "buildDir": "dist/"
   },

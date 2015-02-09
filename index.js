@@ -1,1 +1,1 @@
-/*! uwheel - v0.0.3 - 2015-02-09 */module.exports=require("./lib/uw.js");
+/*! uwheel - v0.0.5 - 2015-02-09 */module.exports=require("./lib/uw.js");
