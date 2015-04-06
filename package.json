@@ -1,7 +1,7 @@
 {
   "name": "uw",
   "description": "uwheel source code and builder",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "config": {
     "buildDir": "dist/"
   },
@@ -10,6 +10,7 @@
     "path": "^0.11.14",
     "pg": "^4.2.0",
     "q": "^1.1.2",
+    "sqlite3": "^3.0.5",
     "string": "^3.0.0",
     "winston": "^0.8.3",
     "ya-csv": "^0.9.4"
